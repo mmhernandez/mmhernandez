@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmhernandez&layout=compact)](https://github.com/mmhernandez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmhernandez&layout=compact&theme=dracula)](https://github.com/mmhernandez/github-readme-stats)
 
 <!-- Consider putting the following into a table?
         Otherwise, list out in separate sections -->
