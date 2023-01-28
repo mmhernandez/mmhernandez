@@ -10,7 +10,8 @@
 ## About Me
 ⚡ I code most days - learning new things, building my knowledge, and having fun along the way.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmhernandez&layout=compact&theme=dracula)](https://github.com/mmhernandez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmhernandez&layout=compact&theme=dark
+)](https://github.com/mmhernandez/github-readme-stats)
 
 
 ## Programming Languages and Tools
