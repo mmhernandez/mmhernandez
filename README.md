@@ -19,7 +19,7 @@ These are the technologies I use or have used in the past:
 
 Programming Languages, Libraries, and Frameworks |
 :--- |
-![python logo](https://skillicons.dev/icons?i=py "Python") ![html5 logo](https://skillicons.dev/icons?i=html "HTML5") ![css3 logo](https://skillicons.dev/icons?i=css "CSS3") ![javascript logo](https://skillicons.dev/icons?i=javascript "JavaScript") ![java logo](https://skillicons.dev/icons?i=java "Java") ![kotlin logo](https://skillicons.dev/icons?i=kotlin "Kotlin") ![flask logo](https://skillicons.dev/icons?i=flask "Flask") ![jinja logo](https://skillicons.dev/icons?i=jinja "Jinja") ![bootstrap logo](https://skillicons.dev/icons?i=bootstrap "Bootstrap") ![django logo](https://skillicons.dev/icons?i=django "Django") 
+![python logo](https://skillicons.dev/icons?i=py "Python") ![html5 logo](https://skillicons.dev/icons?i=html "HTML5") ![css3 logo](https://skillicons.dev/icons?i=css "CSS3") ![javascript logo](https://skillicons.dev/icons?i=javascript "JavaScript") ![java logo](https://skillicons.dev/icons?i=java "Java") ![kotlin logo](https://skillicons.dev/icons?i=kotlin "Kotlin") ![flask logo](https://skillicons.dev/icons?i=flask "Flask") ![bootstrap logo](https://skillicons.dev/icons?i=bootstrap "Bootstrap") ![django logo](https://skillicons.dev/icons?i=django "Django") 
 
 
 <!-- Consider putting the following into a table?
