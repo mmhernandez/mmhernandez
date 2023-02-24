@@ -21,11 +21,6 @@ Programming Languages, Libraries, and Frameworks |
 :--- |
 ![python logo](https://skillicons.dev/icons?i=py "Python") ![html5 logo](https://skillicons.dev/icons?i=html "HTML5") ![css3 logo](https://skillicons.dev/icons?i=css "CSS3") ![javascript logo](https://skillicons.dev/icons?i=javascript "JavaScript") ![java logo](https://skillicons.dev/icons?i=java "Java") ![kotlin logo](https://skillicons.dev/icons?i=kotlin "Kotlin") ![flask logo](https://skillicons.dev/icons?i=flask "Flask") ![bootstrap logo](https://skillicons.dev/icons?i=bootstrap "Bootstrap") ![django logo](https://skillicons.dev/icons?i=django "Django") 
 
-
-<!-- Consider putting the following into a table?
-        Otherwise, list out in separate sections -->
-<!-- Reference page: https://github.com/techytushar/techytushar/blob/master/README.md -->
-
 Infrastructure and Databases |
 :--- |
  ![aws logo](https://skillicons.dev/icons?i=aws "AWS") ![mysql logo](https://skillicons.dev/icons?i=mysql "MySQL") <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" title="T-SQL"/> <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png" title="Microsoft SQL Server"/>
