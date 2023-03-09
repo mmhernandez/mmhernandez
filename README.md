@@ -28,4 +28,4 @@ Infrastructure and Databases |
 
  Other Tools |
  :--- |
- ![vscode logo](https://skillicons.dev/icons?i=vscode "VSCode") ![git logo](https://skillicons.dev/icons?i=git "Git") ![nodejs logo](https://skillicons.dev/icons?i=nodejs "NodeJS") ![figma logo](https://skillicons.dev/icons?i=figma "Figma") ![discord logo](https://skillicons.dev/icons?i=discord "Discord") ![photoshop logo](https://skillicons.dev/icons?i=ps "Photoshop") ![wordpress logo](https://skillicons.dev/icons?i=wordpress "WordPress") 
+ ![vscode logo](https://skillicons.dev/icons?i=vscode "VSCode") ![git logo](https://skillicons.dev/icons?i=git "Git") ![figma logo](https://skillicons.dev/icons?i=figma "Figma") ![discord logo](https://skillicons.dev/icons?i=discord "Discord") ![photoshop logo](https://skillicons.dev/icons?i=ps "Photoshop") ![wordpress logo](https://skillicons.dev/icons?i=wordpress "WordPress") 
