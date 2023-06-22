@@ -17,9 +17,9 @@
 ## Programming Languages and Tools
 These are the technologies I use or have used in the past:
 
-Programming Languages, Libraries, and Frameworks |
+Programming Languages, Frameworks, and Libraries |
 :--- |
-![python logo](https://skillicons.dev/icons?i=py "Python") ![html5 logo](https://skillicons.dev/icons?i=html "HTML5") ![css3 logo](https://skillicons.dev/icons?i=css "CSS3") ![javascript logo](https://skillicons.dev/icons?i=javascript "JavaScript") ![java logo](https://skillicons.dev/icons?i=java "Java") ![kotlin logo](https://skillicons.dev/icons?i=kotlin "Kotlin") ![flask logo](https://skillicons.dev/icons?i=flask "Flask") ![bootstrap logo](https://skillicons.dev/icons?i=bootstrap "Bootstrap") ![tailwind logo](https://skillicons.dev/icons?i=tailwind "Tailwind") ![django logo](https://skillicons.dev/icons?i=django "Django") 
+![html5 logo](https://skillicons.dev/icons?i=html "HTML5")  ![css3 logo](https://skillicons.dev/icons?i=css "CSS3")  ![javascript logo](https://skillicons.dev/icons?i=javascript "JavaScript")  ![python logo](https://skillicons.dev/icons?i=py "Python")  ![java logo](https://skillicons.dev/icons?i=java "Java")  ![kotlin logo](https://skillicons.dev/icons?i=kotlin "Kotlin")  ![flask logo](https://skillicons.dev/icons?i=flask "Flask")  ![sprint logo](https://skillicons.dev/icons?i=spring "Spring")  ![bootstrap logo](https://skillicons.dev/icons?i=bootstrap "Bootstrap")  ![tailwind logo](https://skillicons.dev/icons?i=tailwind "Tailwind") 
 
 Infrastructure and Databases |
 :--- |
