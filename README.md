@@ -3,7 +3,7 @@
 
 <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&pause=1000&color=14E0B7&repeat=false&width=600&height=40&lines=I'm+Melissa+Hernandez" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&pause=1000&color=14E0B7&width=600&height=40&lines=Full-stack+web+and+app+developer;Creative+and+persistent+problem+solver;Lifelong+learner;Programming+for+3+years" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&pause=1000&color=14E0B7&width=600&height=40&lines=Full-stack+web+and+app+developer;Creative+and+persistent+problem+solver;Lifelong+learner;Organization nerd (personally and professionally)" alt="Typing SVG" /></a>
 </p>
 <!-- Gruppo -->
 
